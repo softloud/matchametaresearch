@@ -1,0 +1,37 @@
+---
+title: "matcha metaresearch and open science"
+description: |
+  A joint seminar series presented by NINA and IMeRG
+author:
+  - name: Matthew Grainger 
+    url: 
+    affiliation: The Norwegian Institute for Nature Research
+    affiliation_url: https://www.nina.no/english/
+  - name: Charles T. Gray 
+    url: https://softloud.github.io/onetimetrophybitch/about.html
+    affiliation: Interdisciplinary Metaresearch Group, School of History and Philosophy of Science, University of Melbourne
+    affiliation_url: https://imerg.info/
+date: 02-26-2020
+output:
+  distill::distill_article:
+    self_contained: false
+category: 
+  - announcement
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+```{r fig.align='center', out.width='50%'}
+knitr::include_graphics("../../matchamug.svg")
+```
+
+
+The matcha metaresearch website is up, zoom is logged into *with* the institutional log in. 
+
+We are incrementally closer to beginning our metaresearch webinar series. 

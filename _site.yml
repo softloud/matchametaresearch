@@ -1,0 +1,12 @@
+name: "matchametaresearch"
+title: "matcha metaresearch"
+description: |
+  Talks on metaresearch and open science
+output_dir: "docs"
+navbar:
+  right:
+    - text: "posts"
+      href: index.html
+    - text: "about"
+      href: about.html
+output: distill::distill_article
