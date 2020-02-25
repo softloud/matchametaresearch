@@ -21,6 +21,8 @@ knitr::include_graphics("matchamug.svg")
 
 The matcha metaresearch seminar series is a joint collaboration of [The Norwegian Institute for Nature Research](https://www.nina.no/english/) (NINA) and the [Interdisciplnary Metaresearch Group](https://imerg.info/) at the University of Melbourne. 
 
+The inspiration for this collaboration was the number of people in both groups who wished to hear from people in the other group. 
+
 ## organisers
 
 Matthew Grainger is a computational ecologist with NINA, and [Charles T. Gray](https://softloud.github.io/onetimetrophybitch/about.html) is a research assistant with IMeRG, working towards completion of a dissertation in interdisciplinary computataional metascience. 
