@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r fig.align='center', out.width='50%'}
-knitr::include_graphics("matchamug.svg")
+knitr::include_graphics("logo/matchamug.png")
 ```
 
 The matcha metaresearch seminar series is a joint collaboration of [The Norwegian Institute for Nature Research](https://www.nina.no/english/) (NINA) and the [Interdisciplnary Metaresearch Group](https://imerg.info/) at the University of Melbourne. 
@@ -33,7 +33,7 @@ Charles (she/her) considers herself a somewhat reformed musican, and Matthew (he
 ## logo
 
 ```{r fig.align='center', out.width='50%'}
-knitr::include_graphics("matchamug.svg")
+knitr::include_graphics("logo/matchamug.png")
 ```
 
 The matcha metaresearch logo is a [fontawesome](https://fontawesome.com/license) icon, manipulated using inkscape. 

@@ -1,0 +1,76 @@
+---
+title: "matcha metaresearch"
+subtitle: "are you metacurious?"
+author: "Matthew Grainger and Charles T. Gray"
+institute: "A joint webinar brought to you by <br> <br> Norwegian Institute for Nature Research <br> Interdisciplinary Metaresearch Group"
+date: "Tuesday April 14 2020"
+output:
+  xaringan::moon_reader:
+    seal: false # disables title slide
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+background-image: url("matchamug.png")
+class: center, inverse, middle
+
+## are you meta::curious?
+
+# matcha metaresearch webinar
+
+brought to you by
+
+### Norwegian Institute for Nature research
+
+### Interdisciplinary Metaresearch Group
+
+# todo:: when it is on?
+
+---
+
+background-image: url("matchamug.png")
+class: center, inverse, middle
+
+## matt is a meta::curious ecologist
+
+
+---
+
+# Living Norway
+
+todo: graphic
+
+---
+
+background-image: url("matchamug.png")
+class: center, inverse, middle
+
+## charles is a meta::curious mathematical scientist
+
+---
+
+# The RepliCATS Project
+
+todo: graphic (requested from Fallon)
+
+---
+
+background-image: url("matchamug.png")
+class: center, inverse, middle
+
+### matt and charles are meta::curious
+
+## are you meta::curious?
+
+# matcha metaresearch webinar
+
+brought to you by
+
+### Norwegian Institute for Nature research
+
+### Interdisciplinary Metaresearch Group
+
+# todo:: when it is on?
