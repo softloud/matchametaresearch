@@ -15,7 +15,7 @@ output:
 ---
 
 background-image: url("matchamug.png")
-class: center, inverse, middle
+class: center, middle
 
 ## are you meta::curious?
 
@@ -27,26 +27,25 @@ brought to you by
 
 ### Interdisciplinary Metaresearch Group
 
-# todo:: when it is on?
+# Starts on 6th May 2020
 
 ---
 
-background-image: url("matchamug.png")
-class: center, inverse, middle
+background-image: url("matchamug.png") 
+class: center, middle
 
 ## matt is a meta::curious ecologist
 
 
 ---
+ 
 
-# Living Norway
-
-![](/slides/welcome/logo1.png)
+![](logo1.png)
 
 ---
 
 background-image: url("matchamug.png")
-class: center, inverse, middle
+class: center, middle
 
 ## charles is a meta::curious mathematical scientist
 
@@ -59,7 +58,7 @@ todo: graphic (requested from Fallon)
 ---
 
 background-image: url("matchamug.png")
-class: center, inverse, middle
+class: center, middle
 
 ### matt and charles are meta::curious
 
@@ -73,4 +72,4 @@ brought to you by
 
 ### Interdisciplinary Metaresearch Group
 
-# todo:: when it is on?
+# Starts on 6th May 2020
