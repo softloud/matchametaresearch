@@ -27,21 +27,20 @@ brought to you by
 
 ### Interdisciplinary Metaresearch Group
 
-# todo:: when it is on?
+# Starts on 6th May 2020
 
 ---
 
-background-image: url("matchamug.png")
+background-image: url("matchamug.png") 
 class: center, inverse, middle
 
 ## matt is a meta::curious ecologist
 
 
 ---
+ 
 
-# Living Norway
-
-todo: graphic
+![](logo1.png)
 
 ---
 
@@ -73,4 +72,4 @@ brought to you by
 
 ### Interdisciplinary Metaresearch Group
 
-# todo:: when it is on?
+# Starts on 6th May 2020

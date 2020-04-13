@@ -41,7 +41,7 @@ class: center, inverse, middle
 
 # Living Norway
 
-todo: graphic
+![](/slides/welcome/logo1.png)
 
 ---
 
