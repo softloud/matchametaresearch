@@ -5,6 +5,8 @@ description: |
 output_dir: "docs"
 navbar:
   right:
+    - text: "info for speakers"
+      href: info-for-speakers.html
     - text: "posts"
       href: index.html
     - text: "slides"

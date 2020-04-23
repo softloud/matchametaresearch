@@ -1,0 +1,26 @@
+---
+title: "Information for speakers"
+description: |
+  Notes for presenters in the matcha metaresearch webinar series.
+date: "updated `r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Thank you for accepting an invitation to speak in the matcha metaresearch webinar series. Organisers will be in touch with reminders for title and abstract ahead of the talk.
+
+## Recorded webinars
+
+The webinars will be recorded in Teams and uploaded to the NINA youtube channel. In addition, talk and abstract will be posted to this blog. 
+
+## Structure of webinar
+
+- Short introduction from organisers describing structure of webinar
+- 20-40 minute presentation from invited speaker
+- 10-20 minutes of question time, depending on length of talk
+- Less than one hour total
+
+
