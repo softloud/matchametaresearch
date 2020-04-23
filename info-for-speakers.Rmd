@@ -10,7 +10,7 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Thank you for accepting an invitation to speak in the matcha metaresearch webinar series. Organisers will be in touch with reminders, and a request for title and abstract ahead of the talk.
+Thank you for accepting an invitation to speak in the matcha metaresearch webinar series. Organisers will be in touch with reminders, and a request for bio, title, and abstract ahead of the talk.
 
 ## Intended audience
 
@@ -23,6 +23,10 @@ We suggest tailoring the content for a general academic audience, rather than as
 ## Recorded webinars
 
 Webinars will be recorded in Teams and uploaded to the NINA youtube channel. In addition, talk and abstract will be posted to this blog. 
+
+## Slides
+
+With your permission, we will post the slides to this blog.
 
 ## Structure of webinar
 
