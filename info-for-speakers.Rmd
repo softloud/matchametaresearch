@@ -17,6 +17,7 @@ Thank you for accepting an invitation to speak in the matcha metaresearch webina
 - bio
 - title
 - abstract
+- photo 
 
 ### optional: tweetable abstract
 
