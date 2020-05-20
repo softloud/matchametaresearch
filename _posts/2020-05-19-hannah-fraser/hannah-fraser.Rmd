@@ -1,5 +1,5 @@
 ---
-title: "Replication studies"
+title: "Hannah Fraser on Replication studies"
 description: |
   How many are happening, why they’re important and how do they apply in ecology?
 date: 05-19-2020
