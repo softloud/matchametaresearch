@@ -18,9 +18,9 @@ For our opening presentation, Dr Hannah Fraser spoke on May 20th at 9am Norway/5
 
 > Replication studies: How many are happening, why they’re important and how do they apply in ecology?
 
-Thank you to all of you that attended - for those of you that missed it here is a link to the video of the talk:
+Thank you to all of you that attended. For those who missed it, watch it here:
 
-https://youtu.be/3hnYSTXkoJA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hnYSTXkoJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## bio
 
