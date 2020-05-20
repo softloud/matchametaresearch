@@ -12,15 +12,15 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-> Stay tuned: we will post a recording of the presentation here very soon! 
-
 ## presentation 
 
-For our opening presentation, Dr Hannah Fraser will be speaking on May 20th 9am Norway/5pm Melbourne.
+For our opening presentation, Dr Hannah Fraser spoke on May 20th at 9am Norway/5pm Melbourne.
 
 > Replication studies: How many are happening, why they’re important and how do they apply in ecology?
 
-We will update this page with a recording of the talk, for those who cannot attend the webinar.
+Thank you to all of you that attended - for those of you that missed it here is a link to the video of the talk:
+
+https://youtu.be/3hnYSTXkoJA
 
 ## bio
 
