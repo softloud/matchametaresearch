@@ -12,6 +12,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+> Stay tuned: we will post a recording of the presentation here very soon! 
+
 ## presentation 
 
 For our opening presentation, Dr Hannah Fraser will be speaking on May 20th 9am Norway/5pm Melbourne.
