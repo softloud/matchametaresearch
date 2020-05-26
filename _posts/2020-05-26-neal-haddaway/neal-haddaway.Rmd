@@ -1,0 +1,21 @@
+---
+title: "Neal Haddaway on Open synthesis"
+description: |
+  How and why we should embrace and develop open science principles in evidence synthesis to maximise efficiency, rigour, transparency, legacy and impact of systematic reviews.
+date: 05-26-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+> Neal Haddaway will be speaking in the matcha webinar on 15 July. 
+
+## bio
+
+![](neal.jpg){ width=50%}
+
+Neal Haddaway is a Senior Research Fellow at the Stockholm Environment Institute and a Humboldt Fellow at the Mercator Research Institute on Global Commons and Climate Change. His research focuses on developing evidence synthesis methodology to improve repeatability, transparency and accessibility of systematic reviews and systematic maps. He is the cofounder of the Evidence Synthesis Hackathon (www.eshackathon.org) and the Open Synthesis Working Group (http://opensynthesis.github.io). He is the co-leader of the Swedish Centre of the Collaboration for Environmental Evidence, and the co-convener of the Climate Solutions Coordinating Group of the Campbell Collaboration.

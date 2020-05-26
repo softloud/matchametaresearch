@@ -1,5 +1,15 @@
 [
   {
+    "path": "posts/2020-05-26-neal-haddaway/",
+    "title": "Neal Haddaway on Open synthesis",
+    "description": "How and why we should embrace and develop open science principles in evidence synthesis to maximise efficiency, rigour, transparency, legacy and impact of systematic reviews.",
+    "author": [],
+    "date": "2020-05-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-26T20:25:10+10:00"
+  },
+  {
     "path": "posts/2020-05-19-hannah-fraser/",
     "title": "Hannah Fraser on Replication studies",
     "description": "How many are happening, why they’re important and how do they apply in ecology?",
@@ -7,7 +17,7 @@
     "date": "2020-05-19",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-05-22T13:16:27+10:00"
+    "last_modified": "2020-05-26T20:21:49+10:00"
   },
   {
     "path": "posts/welcome/",
