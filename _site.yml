@@ -4,6 +4,9 @@ description: |
   Talks on metaresearch and open science
 output_dir: "docs"
 navbar:
+  left:
+    - text: "webinar schedule"
+      href: upcoming-speakers.html
   right:
     - text: "info for speakers"
       href: info-for-speakers.html

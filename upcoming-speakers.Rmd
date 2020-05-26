@@ -1,0 +1,42 @@
+---
+title: "Schedule"
+description: |
+  Speakers in the matcha metaresearch webinar series.
+date: "updated: `r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+```{r}
+library(googlesheets)
+library(tidyverse)
+library(kableExtra)
+
+matcha_gs <- gs_key(Sys.getenv("MATCHA_GS"))
+
+speakers <-
+  gs_read(matcha_gs, ws = 3)
+
+
+```
+
+```{r}
+speakers %>% 
+  select(status, date, month, name, title, video) %>% 
+  mutate(status = if_else(status == "accepted", "upcoming", status),
+         name = if_else(!is.na(video), paste0("[", name, "](", video, ")"), name)
+         ) %>% 
+  select(-video) %>% 
+  kable(format = "html") %>% 
+  kable_styling("striped")
+
+
+```
+
+
+
