@@ -1,5 +1,15 @@
 [
   {
+    "path": "posts/2020-05-26-Gavin-Stewart/",
+    "title": "Gavin Stewart on evidence synthesis",
+    "description": "Over-reliance on unreplicated studies, p values, outdated publishing models, and funding models that emphasise novelty and theory all lead to pathway to impact but need reform to facilitate evidence synthesis if we really want to tell truth to power.",
+    "author": [],
+    "date": "2020-05-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-26T20:23:32+02:00"
+  },
+  {
     "path": "posts/2020-05-26-neal-haddaway/",
     "title": "Neal Haddaway on Open synthesis",
     "description": "How and why we should embrace and develop open science principles in evidence synthesis to maximise efficiency, rigour, transparency, legacy and impact of systematic reviews.",
@@ -7,7 +17,7 @@
     "date": "2020-05-26",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-05-26T20:25:11+10:00"
+    "last_modified": "2020-05-26T20:14:28+02:00"
   },
   {
     "path": "posts/2020-05-19-hannah-fraser/",
@@ -17,7 +27,7 @@
     "date": "2020-05-19",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-05-26T20:21:50+10:00"
+    "last_modified": "2020-05-26T20:14:28+02:00"
   },
   {
     "path": "posts/welcome/",
@@ -36,6 +46,6 @@
     "date": "2020-02-26",
     "categories": [],
     "preview": "posts/welcome/../../logo/matchamug.png",
-    "last_modified": "2020-04-13T09:25:11+10:00"
+    "last_modified": "2020-05-26T20:14:28+02:00"
   }
 ]

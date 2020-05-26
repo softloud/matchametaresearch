@@ -13,14 +13,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ```{r}
-library(googlesheets)
+library(googlesheets4)
 library(tidyverse)
 library(kableExtra)
 
-matcha_gs <- gs_key(Sys.getenv("MATCHA_GS"))
-
-speakers <-
-  gs_read(matcha_gs, ws = 3)
+speakers <- read_sheet("https://docs.google.com/spreadsheets/d/1RVeCYUyLsIA_Si1qa7r9WrYIoBfJk25KWHs_A00yaE8/edit#gid=0", sheet = 3)
 
 
 ```
@@ -33,7 +30,8 @@ speakers %>%
          ) %>% 
   select(-video) %>% 
   kable(format = "html") %>% 
-  kable_styling("striped")
+  kable_styling("striped") %>% 
+  row_spec(which(speakers$status=="presented"), bold = T, color = "white", background = "darkgreen")
 
 
 ```

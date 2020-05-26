@@ -1,0 +1,21 @@
+---
+title: "Gavin Stewart on evidence synthesis"
+description: |
+  Over-reliance on unreplicated studies, p values, outdated publishing models, and funding models that emphasise novelty and theory all lead to pathway to impact but need reform to facilitate evidence synthesis if we really want to tell truth to power.
+date: 05-26-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+> Gavin Stewart will be speaking in the matcha webinar on 17 June. 
+
+## bio
+
+![](Gavin-stewart.jpg){ width=50%}
+
+Gavin is Director of the evidence synthesis lab within the Modelling, Evidence and Policy group in the School of Natural Sciences at Newcastle University. Work focuses on evidence synthesis (by means of systematic review and meta-analysis) and evidence contextualisation (by means of systems models and decision support tools). He is a full-time dad, fell runner, cave rescue team member and likes drinking beer and whisky
