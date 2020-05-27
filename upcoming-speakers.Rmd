@@ -17,7 +17,9 @@ library(googlesheets4)
 library(tidyverse)
 library(kableExtra)
 
-speakers <- read_sheet("https://docs.google.com/spreadsheets/d/1RVeCYUyLsIA_Si1qa7r9WrYIoBfJk25KWHs_A00yaE8/edit#gid=0", sheet = 3)
+gs4_deauth()
+
+speakers <- read_sheet(Sys.getenv("MATCHA_GS"), sheet = 3)
 
 
 ```
@@ -26,12 +28,12 @@ speakers <- read_sheet("https://docs.google.com/spreadsheets/d/1RVeCYUyLsIA_Si1q
 speakers %>% 
   select(status, date, month, name, title, video) %>% 
   mutate(status = if_else(status == "accepted", "upcoming", status),
-         name = if_else(!is.na(video), paste0("[", name, "](", video, ")"), name)
+         title = if_else(!is.na(video), paste0("[", title, "](", video, ")"), title)
          ) %>% 
   select(-video) %>% 
   kable(format = "html") %>% 
   kable_styling("striped") %>% 
-  row_spec(which(speakers$status=="presented"), bold = T, color = "white", background = "darkgreen")
+  row_spec(which(speakers$status=="presented"), bold = T, color = "white", background = "lightgrey")
 
 
 ```

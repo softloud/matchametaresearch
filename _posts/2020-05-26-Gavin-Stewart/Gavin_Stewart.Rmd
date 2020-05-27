@@ -16,6 +16,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## bio
 
-![](Gavin-stewart.jpg){ width=50%}
+![](gavin-stewart.jpg){ width=50%}
 
 Gavin is Director of the evidence synthesis lab within the Modelling, Evidence and Policy group in the School of Natural Sciences at Newcastle University. Work focuses on evidence synthesis (by means of systematic review and meta-analysis) and evidence contextualisation (by means of systems models and decision support tools). He is a full-time dad, fell runner, cave rescue team member and likes drinking beer and whisky
