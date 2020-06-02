@@ -10,6 +10,10 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+The link to the matcha metaresearch seminar will be shared by the matcha slack channel. 
+
+Join the [matcha metaresearch slack](https://docs.google.com/forms/d/1ZANUQkR93Qz0W2iCIDZKUP1hKDiwg41uLopNJG8a-gY/prefill) forum.
+
 
 
 ```{r}
