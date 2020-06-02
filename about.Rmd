@@ -23,6 +23,10 @@ The matcha metaresearch seminar series is a joint collaboration of [The Norwegia
 
 The inspiration for this collaboration was the number of people in both groups who wished to hear from people in the other group. 
 
+## twitter
+
+Follow on [twitter](https://twitter.com/MMetaresearch) to hear about upcoming speakers and preprints in metaresearch.
+
 ## slack
 
 The link to the matcha metaresearch seminar will be shared by the matcha slack channel. 
