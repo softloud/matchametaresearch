@@ -16,6 +16,8 @@ navbar:
       menu: 
       - text: welcome
         href: slides/welcome/welcome.html
+      - text: Gavin Stewart
+        href: slides/gavin-stewart/gavin-stewart-slides.pdf
     - text: "about"
       href: about.html
 output: distill::distill_article
