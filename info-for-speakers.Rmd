@@ -31,11 +31,17 @@ which has 190 characters, allowing us to @ the speaker, as well.
 
 ## Intended audience
 
+Think lab meeting. 
+
 This is a webinar series of interest to the Interdisciplinary Metaresearch Group and the Norwegian Institute for Nature Research. There will be certainly be ecologists, research software engineers, and philosophers of science in attendence.
 
 In addition, the talks will be advertised to the general academic community, so people may join from any number disciplines with an interest in metaresearch. 
 
 We suggest tailoring the content for a general academic audience, rather than assuming in-depth discipline-specific knowledge. Instead we invite you to frame your content from the perspective that metascience is a comparative discipline, seeking to explore what we might learn from shared scientific methodologies and practices across disciplines. 
+
+### It might be just Matt and Charles
+
+We're both introverts and don't truck much with the whole social media branding and whatnot. Our motivation for creating this repository of talks was to share with those who might be interested, do a little bit towards due diligence towards the spirit of open science. 
 
 ## Recorded webinars
 

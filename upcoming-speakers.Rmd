@@ -31,6 +31,7 @@ speakers <- read_sheet(Sys.getenv("MATCHA_GS"), sheet = 3)
 ```{r}
 speakers %>% 
   select(status, date, month, name, title, video) %>% 
+  dplyr::filter(status %in% c("presented", "accepted")) %>% 
   mutate(status = if_else(status == "accepted", "upcoming", status),
          title = if_else(!is.na(video), paste0("[", title, "](", video, ")"), title)
          ) %>% 

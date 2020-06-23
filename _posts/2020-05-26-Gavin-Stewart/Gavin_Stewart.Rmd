@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 > Gavin Stewart will be speaking in the matcha webinar on 17 June. 
 
-Slides for Gav's presentation.
+[Slides](https://softloud.github.io/matchametaresearch/slides/gavin-stewart) for Gav's presentation.
 
 ## bio
 
