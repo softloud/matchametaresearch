@@ -14,8 +14,6 @@ The link to the matcha metaresearch seminar will be shared by the matcha slack c
 
 Join the [matcha metaresearch slack](https://docs.google.com/forms/d/e/1FAIpQLSeFPkf2Xc3RJP11YNssxxO-yLH4jEb9ATIhSnAt2WpjiuGBQw/viewform?usp=pp_url) forum.
 
-
-
 ```{r}
 library(googlesheets4)
 library(tidyverse)
@@ -24,7 +22,6 @@ library(kableExtra)
 gs4_deauth()
 
 speakers <- read_sheet(Sys.getenv("MATCHA_GS"), sheet = 3)
-
 
 ```
 
