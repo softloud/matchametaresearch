@@ -11,8 +11,11 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+> Over-reliance on unreplicated studies, p values, outdated publishing models, and funding models that emphasise novelty and theory all lead to pathway to impact but need reform to facilitate evidence synthesis if we really want to tell truth to power.
 
-> Gavin Stewart will be speaking in the matcha webinar on 17 June. 
+Thank you to all of you that attended. For those who missed it, watch it here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dyWRn0uBF2o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Slides](https://softloud.github.io/matchametaresearch/slides/gavin-stewart) for Gav's presentation.
 
