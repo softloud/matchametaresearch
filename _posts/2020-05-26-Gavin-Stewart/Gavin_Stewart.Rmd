@@ -5,13 +5,14 @@ description: |
 date: 05-26-2020
 output:
   distill::distill_article:
-    self_contained: false
+    # self_contained: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-> Over-reliance on unreplicated studies, p values, outdated publishing models, and funding models that emphasise novelty and theory all lead to pathway to impact but need reform to facilitate evidence synthesis if we really want to tell truth to power.
+
+ Over-reliance on unreplicated studies, p values, outdated publishing models, and funding models that emphasise novelty and theory all lead to pathway to impact but need reform to facilitate evidence synthesis if we really want to tell truth to power.
 
 Thank you to all of you that attended. For those who missed it, watch it here:
 
