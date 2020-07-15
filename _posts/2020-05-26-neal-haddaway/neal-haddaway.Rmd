@@ -12,7 +12,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-> Neal Haddaway will be speaking in the matcha webinar on 15 July. 
+>  How and why we should embrace and develop open science principles in evidence synthesis to maximise efficiency, rigour, transparency, legacy and impact of systematic reviews
+
+Thank you to all of you that attended. For those who missed it, watch it here:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2urxnAq2PpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## bio
 
