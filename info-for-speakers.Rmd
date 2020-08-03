@@ -41,9 +41,11 @@ We suggest tailoring the content for a general academic audience, rather than as
 
 ### It might be just Matt and Charles
 
-We're both introverts and don't truck much with the whole social media branding and whatnot. Our motivation for creating this repository of talks was to share with those who might be interested, do a little bit towards due diligence towards the spirit of open science. We don't do a heap of advertising, and with the time zone differences, not everyone who is interested can attend in person. The videos are posted to the blog, and people do catch up after the event. 
+We're both introverts and don't truck much with the whole social media branding and whatnot. Our motivation for creating this repository of talks was to share with those who might be interested, do a little bit towards due diligence towards the spirit of open science. 
 
-That being said, if a member of the metaresearch community would like to boost the scicomms part of their cv, we would welcome a matcha social media science communicator on the organising team. 
+We don't do a heap of advertising, and with the time zone differences, not everyone who is interested can attend in person. The videos are posted to the blog, and people do catch up after the event. 
+
+We invite people who would take an hour of their time to have a coffee with us, as colleagues with shared interests, and record these seminars for anyone else who might benefit. 
 
 ## Recorded webinars
 
