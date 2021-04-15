@@ -19,7 +19,14 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("logo/matchamug.png")
 ```
 
-The matcha metaresearch seminar series is a joint collaboration of [The Norwegian Institute for Nature Research](https://www.nina.no/english/) (NINA) and the [Interdisciplnary Metaresearch Group](https://imerg.info/) at the University of Melbourne. 
+## pandemic blues
+
+Matt, Charles, and Garima are all a bit bummed out at the moment. The team will be taking a break from organising webinars and will update when we resume. 
+
+## about
+
+
+The matcha metaresearch seminar series is a joint collaboration of [The Norwegian Institute for Nature Research](https://www.nina.no/english/) (NINA) and the Evidence Synthesis Lab at Newcastle University.
 
 The inspiration for this collaboration was the number of people in both groups who wished to hear from people in the other group. 
 
@@ -36,7 +43,7 @@ Join the [matcha metaresearch slack](https://docs.google.com/forms/d/e/1FAIpQLSe
 
 ## organisers
 
-Matthew Grainger is a computational ecologist with NINA, and [Charles T. Gray](https://softloud.github.io/onetimetrophybitch/about.html) is a research assistant with IMeRG, working towards completion of a dissertation in interdisciplinary computataional metascience. 
+Matthew Grainger is a computational ecologist with NINA, and [Charles T. Gray](https://softloud.github.io/onetimetrophybitch/about.html) is a research associate with the Evidence Synthesis Lab at Newcastle. 
 
 Charles (she/her) considers herself a somewhat reformed musican. Educated, also, in mathematics, she can be a little obtuse.  
 

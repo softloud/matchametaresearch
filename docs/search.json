@@ -1,0 +1,38 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "about matcha metaresearch talks",
+      "description": "This seminar series is a joint collaboration from NINA and IMeRG ",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\npandemic blues\nMatt, Charles, and Garima are all a bit bummed out at the moment. The team will be taking a break from organising webinars and will update when we resume.\nabout\nThe matcha metaresearch seminar series is a joint collaboration of The Norwegian Institute for Nature Research (NINA) and the Evidence Synthesis Lab at Newcastle University.\nThe inspiration for this collaboration was the number of people in both groups who wished to hear from people in the other group.\ntwitter\nFollow on twitter to hear about upcoming speakers and preprints in metaresearch.\nslack\nThe link to the matcha metaresearch seminar will be shared by the matcha slack channel.\nJoin the matcha metaresearch slack forum.\norganisers\nMatthew Grainger is a computational ecologist with NINA, and Charles T. Gray is a research associate with the Evidence Synthesis Lab at Newcastle.\nCharles (she/her) considers herself a somewhat reformed musican. Educated, also, in mathematics, she can be a little obtuse.\n\nFirefly Serenity GIF from Firefly GIFs\n\nMatthew (he/him) has a sideline in pheasants.\n\nPheasant GIF from Pheasant GIFs\n\ncomms\nMatt and Charles being of the hermit in a cottage in a forest introverts, by nature, we are delighted to welcome Garima Gupta to the team as Matcha Scientific Communications.\nGarima is an ecologist with a passion for Antartica. She enjoys a splash of R with her conservation.\n\n\n\nvia GIPHY\n\nlogo\n\n\n\nThe matcha metaresearch logo is a fontawesome icon, manipulated using inkscape.\n\n# to install inkscape on linux\nsudo add-apt-repository ppa:inkscape.dev/stable\n\n\n\n\n",
+      "last_modified": "2021-04-15T15:33:10+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "matcha metaresearch",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-15T15:28:42+01:00"
+    },
+    {
+      "path": "info-for-speakers.html",
+      "title": "Information for speakers",
+      "description": "Notes for presenters in the matcha metaresearch webinar series.\n",
+      "author": [],
+      "date": "updated `r Sys.Date()`",
+      "contents": "\nThank you for accepting an invitation to speak in the matcha metaresearch webinar series.\nWhat we need from you\nbio\ntitle\nabstract\nphoto\noptional: tweetable abstract\nTwitter has a character limit of 280 characters. It’s useful to have a short one-sentence description of your talk.\nFor example: Neal Haddaway provided us with:\n\n#OpenSynthesis – how and why we should embrace and develop Open Science principles in evidence synthesis to maximise efficiency, rigour, transparency, legacy and impact of #SystematicReviews\n\nwhich has 190 characters, allowing us to @ the speaker, as well.\nIntended audience\nThink lab meeting.\nThis is a webinar series of interest to the Interdisciplinary Metaresearch Group and the Norwegian Institute for Nature Research. There will be certainly be ecologists, research software engineers, and philosophers of science in attendence.\nIn addition, the talks will be advertised to the general academic community, so people may join from any number disciplines with an interest in metaresearch.\nWe suggest tailoring the content for a general academic audience, rather than assuming in-depth discipline-specific knowledge. Instead we invite you to frame your content from the perspective that metascience is a comparative discipline, seeking to explore what we might learn from shared scientific methodologies and practices across disciplines.\nIt might be just Matt and Charles\nWe’re both introverts and don’t truck much with the whole social media branding and whatnot. Our motivation for creating this repository of talks was to share with those who might be interested, do a little bit towards due diligence towards the spirit of open science.\nWe don’t do a heap of advertising, and with the time zone differences, not everyone who is interested can attend in person. The videos are posted to the blog, and people do catch up after the event.\nWe invite people who would take an hour of their time to have a coffee with us, as colleagues with shared interests, and record these seminars for anyone else who might benefit.\nRecorded webinars\nWebinars will be recorded in Teams and uploaded to the NINA youtube channel. In addition, talk and abstract will be posted to this blog.\nSlides\nWe will post the slides to this blog.\nStructure of webinar\nShort introduction from organisers describing structure of webinar\n20-40 minute presentation from invited speaker\nOrganisers invite questions via chat\n10-20 minutes of question time, depending on length of talk\nLess than one hour total\nOpt out\nIf any of these elements concern you, please contact the organisers to opt out. For example, you may not wish to be recorded, or share your slides, for in progress research.\n\n\n",
+      "last_modified": "2021-04-15T15:28:42+01:00"
+    },
+    {
+      "path": "upcoming-speakers.html",
+      "title": "Schedule",
+      "description": "Speakers in the matcha metaresearch webinar series.\n",
+      "author": [],
+      "date": "updated: `r Sys.Date()`",
+      "contents": "\nThe link to the matcha metaresearch seminar will be shared by the matcha slack channel.\nJoin the matcha metaresearch slack forum.\n\n\n\n\n\nstatus\n\n\ndate\n\n\nmonth\n\n\nname\n\n\ntitle\n\n\npresented\n\n\n20\n\n\nMay\n\n\nHannah Fraser\n\n\nReplication studies: How many are happening, why they’re important and how do they apply in ecology?\n\n\npresented\n\n\n17\n\n\nJune\n\n\nGavin Stewart\n\n\nOnly evidence synthesis can reliably inform policy\n\n\nupcoming\n\n\n15\n\n\nJuly\n\n\nNeal Haddoway\n\n\nOpen synthesis\n\n\nupcoming\n\n\n16\n\n\nSeptember\n\n\nHao Ye\n\n\nNA\n\n\nupcoming\n\n\n14\n\n\nOctober\n\n\nErlend Nilson\n\n\nNA\n\n\nupcoming\n\n\n18\n\n\nNovember\n\n\nPanel Session\n\n\nIntersectionality, diversity, open science, and the very best of intentions\n\n\n\n\n",
+      "last_modified": "2021-04-15T15:28:42+01:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
